@@ -20,7 +20,7 @@ flask-swagger==0.2.13
 Flask-WTF==0.12
 future==0.16.0
 gunicorn==19.7.1
-httpie==0.9.9
+httpie==1.0.3
 httplib2==0.10.3
 jctconv==0.1.2
 Jinja2==2.9.6
