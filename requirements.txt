@@ -23,7 +23,7 @@ gunicorn==19.7.1
 httpie==0.9.9
 httplib2==0.10.3
 jctconv==0.1.2
-Jinja2==2.9.6
+Jinja2==2.11.3
 lxml==3.8.0
 lz4==0.10.1
 msgpack-python==0.4.8
